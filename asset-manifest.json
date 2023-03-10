@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fit5120onboarding/static/css/main.422fd52c.css",
+    "main.js": "/fit5120onboarding/static/js/main.56f05352.js",
+    "static/js/787.db91bef6.chunk.js": "/fit5120onboarding/static/js/787.db91bef6.chunk.js",
+    "index.html": "/fit5120onboarding/index.html",
+    "main.422fd52c.css.map": "/fit5120onboarding/static/css/main.422fd52c.css.map",
+    "main.56f05352.js.map": "/fit5120onboarding/static/js/main.56f05352.js.map",
+    "787.db91bef6.chunk.js.map": "/fit5120onboarding/static/js/787.db91bef6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.422fd52c.css",
+    "static/js/main.56f05352.js"
+  ]
+}
