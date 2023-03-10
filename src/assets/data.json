@@ -1,0 +1,62 @@
+[
+    {
+        "name": "plastic",
+        "imageSrc": "/imgs/1.png",
+        "wasteClass": 2
+    },
+    {
+        "name": "Glass",
+        "imageSrc": "/imgs/2.png",
+        "wasteClass": 3
+    },
+    {
+        "name": "Paper",
+        "imageSrc": "/imgs/3.png",
+        "wasteClass": 3
+    },
+    {
+        "name": "Metal",
+        "imageSrc": "/imgs/4.png",
+        "wasteClass": 3
+    },
+    {
+        "name": "Paper",
+        "imageSrc": "/imgs/5.png",
+        "wasteClass": 3
+    },
+    {
+        "name": "Textile",
+        "imageSrc": "/imgs/6.png",
+        "wasteClass": 3
+    },
+    {
+        "name": "Plastic",
+        "imageSrc": "/imgs/7.png",
+        "wasteClass": 3
+    },
+    {
+        "name": "Metal",
+        "imageSrc": "/imgs/8.png",
+        "wasteClass": 3
+    },
+    {
+        "name": "Food",
+        "imageSrc": "/imgs/9.png",
+        "wasteClass": 1
+    },
+    {
+        "name": "Plastic",
+        "imageSrc": "/imgs/10.png",
+        "wasteClass": 2
+    },
+    {
+        "name": "Testile",
+        "imageSrc": "/imgs/11.png",
+        "wasteClass": 3
+    },
+    {
+        "name": "Paper",
+        "imageSrc": "/imgs/12.png",
+        "wasteClass": 3
+    }
+]

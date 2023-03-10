@@ -1,25 +1,22 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Waste from './components/Waste';
+import WasteItem from "./assets/data.json";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+
+    <>
+      <header>
+        <h2>FIT5120TE07</h2>
+        <h4>OnBoardingDemo-V0.0</h4>
+
       </header>
-    </div>
-  );
+      <div className='movie-container'>
+        {WasteItem.map((para, index) => (<Waste key={index} {...para}></Waste>))}
+      </div>
+
+    </>);
 }
 
 export default App;
