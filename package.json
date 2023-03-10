@@ -37,5 +37,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://terrobladed.github.io/FIT5120TE07Onboarding"
+  "homepage": "https://terrobladed.github.io/FIT5120TE07Onboarding",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
